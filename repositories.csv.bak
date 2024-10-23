@@ -1,4 +1,4 @@
-login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+owner,nameWithOwner,createdAt,stargazerCount,watchers,primaryLanguage,hasProjectsEnabled,hasWikiEnabled,licenseInfo
 DefinitelyTyped,DefinitelyTyped/DefinitelyTyped,2012-10-05T16:39:45Z,48466,646,TypeScript,True,False,other
 kean,kean/PulsePro,2020-02-16T21:00:04Z,482,42,Swift,True,True,
 typescript-cheatsheets,typescript-cheatsheets/react,2018-06-02T04:08:16Z,45325,392,JavaScript,False,False,mit
