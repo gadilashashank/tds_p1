@@ -1,4 +1,4 @@
-login,name,company,location,email,is_hireable,bio,public_repos,followers,following,created_at
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
 orta,Orta Therox,'',Huddersfield / NYC / Dublin / Rio de Janeiro,git@orta.io,false,"'Tech on @puzzmo-com \r\n\r\nEx-TypeScript. Contributed to: Shiki, Shiki Twoslash, Danger, CocoaPods, Jest, GraphQL, RxSwift & Svelte'",952.0,6017.0,109.0,2009-01-24T20:40:31Z
 jeromeetienne,Jerome Etienne,MAKING WEBAR A REALITY,"Dublin, Ireland",jerome.etienne@gmail.com,true,'Making WebAR a reality - Around Javascript and WebGL - 8th most active user on github - Write @learningthreejs - ex daqri',301.0,2782.0,15.0,2010-04-26T11:58:29Z
 jonataslaw,Jonny Borges,IRIS,"Dublin, Ireland",'',true,'VP of Engineering from Iris Finance.\r\nDeveloper and Lawyer.\r\nPassionate about dart and productivity hacks.',272.0,2690.0,17.0,2018-01-23T19:17:15Z
