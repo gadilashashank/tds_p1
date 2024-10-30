@@ -1,0 +1,16 @@
+orta,jeromeetienne,jonataslaw,steventroughtonsmith,axic
+paulca,adrian,GavinJoyce,amir,ciaranlee
+'',mit,apache-2.0
+''
+JavaScript
+''
+CMake
+flaviohenriquealmeida,AnikSarker,awesomeAB,steventroughtonsmith,12Knocksinna
+0.563
+2.869
+0.305
+45.257
+7.047
+orta,joshuacassidy,No9,wafuwafu13,lmammino
+0.000
+Chen,Kenny,O'Sullivan,Quinn
