@@ -3,7 +3,7 @@ from githubkit.versions.latest.models import PublicUser, PrivateUser
 import json
 import csv
 
-github = GitHub("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")
+github = GitHub("<token>")
 
 q = """
 query ($cursor:String){
